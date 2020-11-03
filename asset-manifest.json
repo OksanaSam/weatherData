@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/weatherData/static/css/main.af0e3b4b.chunk.css",
+    "main.js": "/weatherData/static/js/main.41fc5457.chunk.js",
+    "main.js.map": "/weatherData/static/js/main.41fc5457.chunk.js.map",
+    "runtime-main.js": "/weatherData/static/js/runtime-main.1f8043c1.js",
+    "runtime-main.js.map": "/weatherData/static/js/runtime-main.1f8043c1.js.map",
+    "static/js/2.00cf68fc.chunk.js": "/weatherData/static/js/2.00cf68fc.chunk.js",
+    "static/js/2.00cf68fc.chunk.js.map": "/weatherData/static/js/2.00cf68fc.chunk.js.map",
+    "index.html": "/weatherData/index.html",
+    "static/css/main.af0e3b4b.chunk.css.map": "/weatherData/static/css/main.af0e3b4b.chunk.css.map",
+    "static/js/2.00cf68fc.chunk.js.LICENSE.txt": "/weatherData/static/js/2.00cf68fc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weatherData/static/media/shttefan-viNPa2F7fnw-unsplash.e397a423.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f8043c1.js",
+    "static/js/2.00cf68fc.chunk.js",
+    "static/css/main.af0e3b4b.chunk.css",
+    "static/js/main.41fc5457.chunk.js"
+  ]
+}
